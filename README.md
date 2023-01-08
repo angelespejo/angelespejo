@@ -1,3 +1,4 @@
+# a.k.a. _Angelo_
 - 🎶 Musik producer 
 
 - 🎞️ Film director 
@@ -8,11 +9,11 @@
 
 - 🤡 Random artist
 
-- 🐦 I'm one of the founders of [@PigeonPosse](https://github.com/PigeonPosse/)
+- 🐦 I'm one of the founders of _[@PigeonPosse](https://github.com/PigeonPosse/)_
 
 <br>
 
-> Most of my public code projects are on [@PigeonPosse](https://github.com/PigeonPosse/)
+> Most of my public code projects are on _[PigeonPosse](https://github.com/PigeonPosse/)_
 
 ## 🐦 About _PigeonPosse_
 
