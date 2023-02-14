@@ -1,19 +1,20 @@
 # a.k.a. _Angelo_
-- 🎶 Musik producer 
+
+> Most of my public code projects are on _[PigeonPosse](https://github.com/PigeonPosse/)_
 
 - 🎞️ Film director 
 
-- ⚒️ Carpenter
-
 - 🤖 Programmer
+
+- 🎶 Musik producer 
+
+- ⚒️ Carpenter
 
 - 🤡 Random artist
 
 - 🐦 I'm one of the founders of _[@PigeonPosse](https://github.com/PigeonPosse/)_
 
 <br>
-
-> Most of my public code projects are on _[PigeonPosse](https://github.com/PigeonPosse/)_
 
 ## 🐦 About _PigeonPosse_
 
