@@ -6,7 +6,7 @@
 
 - 🤖 Programmer
 
-- 🎶 Musik producer 
+- 🎶 Music producer 
 
 - ⚒️ Carpenter
 
